@@ -29,7 +29,7 @@ The dataset includes:
 - - Spreadsheet / CSV Dataset
 - Looker Studio (Dashboard & Visualization)
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 👉 [View Interactive Dashboard]([https://lookerstudio.google.com/reporting/6e0fa765-6312-460d-8eb9-5aae41d57cf4](https://datastudio.google.com/reporting/a144da41-6108-4e03-9933-41f2fbbec9d0))
 
