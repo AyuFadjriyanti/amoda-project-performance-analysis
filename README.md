@@ -31,6 +31,6 @@ The dataset includes:
 
 ## Dashboard Preview
 
-👉 [View Interactive Dashboard]([https://lookerstudio.google.com/reporting/6e0fa765-6312-460d-8eb9-5aae41d57cf4](https://datastudio.google.com/reporting/a144da41-6108-4e03-9933-41f2fbbec9d0))
+👉 [View Interactive Dashboard](https://datastudio.google.com/reporting/a144da41-6108-4e03-9933-41f2fbbec9d0)
 
 <img width="525" height="377" alt="amoda performance 2" src="https://github.com/user-attachments/assets/cb986ea5-ba3b-4338-8fb8-87fd2eb529df" />
